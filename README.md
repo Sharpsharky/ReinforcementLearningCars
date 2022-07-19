@@ -1,6 +1,6 @@
 <img src="Images/Insight.PNG" align="middle" width="3000"/>
 
-# Applying Reinforcement Learning To Self-Learning Cars
+# Applying Reinforcement Learning To Self-Teaching Cars
 
 The visualisation of the simulation may be found [here](https://www.youtube.com/watch?v=lFDOppuIpV4&feature=youtu.be).
 
